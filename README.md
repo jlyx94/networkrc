@@ -16,31 +16,46 @@ Automation script that allows cyber units to run script from their devices but w
 <h2>Program Overview:</h2>
 
 <p align="center">
-Installing and anonymity check: <br/>
+Installing required apps: <br/>
 <img src="https://i.imgur.com/xRK2AwW.png" height="80%" width="80%" alt="Installing and anonymity check"/>
-<br />
-<br />Print details of newly added users: <br/>
-<img src="https://i.imgur.com/TzZagG4.png" height="80%" width="80%" alt="Print user details"/>
-<br />
-<br />
-Print details of commands used:  <br/>
-<img src="https://i.imgur.com/kxQMNpl.png" height="80%" width="80%" alt="Print command details"/>
+<img src="https://i.imgur.com/Dvof6Hy.png" height="80%" width="80%" alt="Output"/>
+ <br />
+<br />Checking for nipe and anonymity: <br/>
+<img src="https://i.imgur.com/Mciasn1.png" height="80%" width="80%" alt="Print user details"/>
 <br />
 <br />
-Print details of changed password:  <br/>
+Nipe command output:  <br/>
+<img src="https://i.imgur.com/Jir6IAU.png" height="80%" width="80%" alt="Print command details"/>
+<br />
+<br />
+If anonymous, to display the spoof country name:  <br/>
 <img src="https://i.imgur.com/OITjXSF.png" height="80%" width="80%" alt="Print details of changed password"/>
 <br />
 <br />
-Print details of when users used su command:  <br/>
-<img src="https://i.imgur.com/rAHWZX8.png" height="80%" width="80%" alt="Details when users used su command"/>
+Allows the user to specify the address/URL to "whois" from remote server and saves it into a variable:  <br/>
+<img src="https://i.imgur.com/HR1ILyC.png" height="80%" width="80%" alt="whois address"/>
 <br />
 <br />
-Print details of users who used sudo command, including the command:  <br/>
-<img src="https://i.imgur.com/OrFkx2C.png" height="80%" width="80%" alt="Print details of users who used sudo command, including the command"/>
+Connect to SSH server:  <br/>
+<img src="https://i.imgur.com/1KGd2kN.png" height="80%" width="80%" alt="Connect to SSH server"/>
 <br />
 <br />
-Prints "ALERT!" if users failed to use the sudo command, including the command:  <br/>
-<img src="https://i.imgur.com/04TaVCA.png" height="80%" width="80%" alt="Prints "ALERT!" if users failed to use the sudo command, including the command"/>
+Prints details of the remote server:  <br/>
+<img src="https://i.imgur.com/v6MFwO1.png" height="80%" width="80%" alt="Prints details of the remote server"/>
+<br />
+<br />
+Connect to SSH server:  <br/>
+<img src="https://i.imgur.com/1KGd2kN.png" height="80%" width="80%" alt="Connect to SSH server"/>
+<br />
+<br />
+Conduct an NMAP and whois scan and save the details into the remote computer: <br/>
+<img src="https://i.imgur.com/DmMtxEV.png" height="80%" width="80%" alt="NMAPscan"/>
+<br />
+<br />
+Obtaining the file: <br/>
+<img src="https://i.imgur.com/aW50eGq.png" height="80%" width="80%" alt="Obtainingfile"/>
+<br />
+<br />
 </p>
 
 <!--
